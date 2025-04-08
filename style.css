@@ -3,7 +3,7 @@ body {
     font-family: 'Inter', sans-serif;
     background-color: grey;
     background-size: cover;
-    color: #1f2937;
+    color: black;
   }
   
   .container {
@@ -36,5 +36,9 @@ body {
     margin-top: 2rem;
     font-size: 0.95rem;
     color: #6b7280;
+  }
+
+  p {
+    color: black;
   }
   
